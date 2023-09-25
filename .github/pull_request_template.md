@@ -1,3 +1,4 @@
+[comment]: # ( Copyright Contributors to the Open Cluster Management project )
 
 <!--
 Thanks for creating a pull request!
